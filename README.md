@@ -58,6 +58,8 @@ The backend API will be available at `http://localhost:3001`.
 
 The frontend will be available at `http://localhost:5173`.
 
+After ruunig, UI will open you have click on connect with wallet and have to signIn with wallet. 
+
 ## 🧪 Running Tests
 
 ### Backend Tests
@@ -72,7 +74,12 @@ npm test
 ```
 cd frontend
 npm test
+
 ```
+5. Live Link:
+
+##   https://web3-ugl4.vercel.app/
+
 
 ## 📝 Trade-offs and Future Improvements
 
